@@ -87,7 +87,7 @@ Build Instructions
 	* Enter directory: "projects/01_cli"
 	* Run the command: "make release"
 	* On success, the binary file is create under this path:
-	  "projects/01_cli/bin/release/frutil"
+	  "projects/01_cli/bin/release/cfspace"
 
 
 Links
